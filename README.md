@@ -2,7 +2,7 @@
 
 # 👋I'm Kanishka Lahori
 
-🚀 Senior Software Engineer | Building Scalable Systems at Kloudspot Inc. <br>
+🚀 Software Engineer | Building Scalable Systems at Kloudspot Inc. <br>
 📍 India 
 
 ---
