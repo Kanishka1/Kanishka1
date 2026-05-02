@@ -38,14 +38,7 @@ I build **data-driven, high-performance web applications** used in real-world en
 - Wrote complex mongoDB aggregation pipelines capturing data from multiple camera data streams to be displayed on UI
 - Deployed at scale in production.
 
-
 ---
-
-### 🧠 Visitor Management System (VMS)
-- Face recognition integration  
-- Real-time notifications & analytics  
-- Badge printing & visitor tracking  
-
 
 ## 🛠️ Languages & Tools
 
